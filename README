@@ -1,0 +1,3 @@
+Modified version of an autoproxy script found here. http://sprayfly.com/2009/06/28/shell-script-for-automated-amazon-ec2-personal-proxy-server/
+
+I made changes to support OS X and to not delete all your damn ec2 instances when you terminate it. Hacked this together to work with sidestep: http://chetansurpur.com/projects/sidestep/
